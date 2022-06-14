@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/My-YT-Stats/static/css/main.39b22b14.css",
+    "main.js": "/My-YT-Stats/static/js/main.364d64a9.js",
+    "index.html": "/My-YT-Stats/index.html",
+    "main.39b22b14.css.map": "/My-YT-Stats/static/css/main.39b22b14.css.map",
+    "main.364d64a9.js.map": "/My-YT-Stats/static/js/main.364d64a9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.39b22b14.css",
+    "static/js/main.364d64a9.js"
+  ]
+}
